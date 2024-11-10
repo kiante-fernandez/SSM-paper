@@ -1,0 +1,27 @@
+title: "SequentialSamplingModels.jl: Simulating and Evaluating Cognitive Models of Response Times in Julia"
+keywords:
+  - cognitive models
+  - response time
+  - sequential sampling models
+  - evidence accumulation
+  - decision-making
+
+authors:
+  - name: Kianté Fernandez
+    orcid: 0000-0002-8493-880X
+    affiliation: 1
+  - name: Dominique Makowski
+    orcid: 0000-0001-5375-9967
+    affiliation: 2
+  - name: Christopher Fisher
+    orcid: 0000-0003-3728-4425
+    affiliation: 3
+affiliations:
+  - name: Department of Psychology, University of California, Los Angeles
+    index: 1
+  - name: School of Psychology, University of Sussex, Brighton, UK
+    index: 2
+  - name: Parallax Advanced Research
+    index: 3
+date: 7 November 2024
+bibliography: ref.bib
