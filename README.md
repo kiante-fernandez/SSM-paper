@@ -1,7 +1,7 @@
 # SequentialSamplingModels.jl: Simulating and Evaluating Cognitive Models of Response Times in Julia
 
 > **SequentialSamplingModels.jl: Simulating and Evaluating Cognitive Models of Response Times in Julia**  
-> Kianté Fernandez<sup>1</sup>, Dominique Makowski<sup>2</sup>, and Christopher Fisher<sup>3</sup>  
+> Kianté Fernandez<sup>1</sup> [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8493--880X-green.svg)](https://orcid.org/0000-0002-8493-880X), Dominique Makowski<sup>2</sup> [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5375--9967-green.svg)](https://orcid.org/0000-0001-5375-9967), and Christopher Fisher<sup>3</sup> [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3728--4425-green.svg)](https://orcid.org/0000-0003-3728-4425)  
 > <sup>1</sup>Department of Psychology, University of California, Los Angeles, CA, USA  
 > <sup>2</sup>School of Psychology, University of Sussex, Brighton, UK  
 > <sup>3</sup>Independent Researcher  
@@ -46,8 +46,6 @@ If you use SSM.jl in your research, please cite:
   title={SequentialSamplingModels.jl: Simulating and Evaluating Cognitive Models of Response Times in Julia},
   author={Fernandez, Kiant{\'e} and Makowski, Dominique and Fisher, Christopher},
   journal={Proceedings of JuliaCon},
-  volume={1},
-  number={1},
   year={2024}
 }
 ```
