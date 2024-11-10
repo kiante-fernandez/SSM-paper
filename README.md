@@ -10,31 +10,6 @@
 
 Sequential sampling models (SSMs) are a widely used framework describing decision-making as a stochastic, dynamic process of evidence accumulation. SSMs popularity across cognitive science has driven the development of various software packages that lower the barrier for simulating, estimating, and comparing existing SSMs. Here, we present a software tool, SequentialSamplingModels.jl (SSM.jl), designed to make SSM simulations more accessible to Julia users, and to integrate with the Julia ecosystem. We demonstrate the basic use of SSM.jl for simulation, plotting, and Bayesian inference.
 
-## Repository Structure
-
-```
-.
-├── paper/
-│   ├── paper.tex        # Main paper source
-│   ├── header.tex       # LaTeX header and package imports
-│   ├── bib.tex         # Bibliography settings
-│   ├── ref.bib         # Bibliography database
-│   ├── journal_dat.tex # Journal metadata
-│   ├── paper.yml       # Paper configuration
-│   ├── prep.rb         # Build preparation script
-│   ├── figures/        # Paper figures
-│   ├── juliacon.cls    # JuliaCon document class
-│   ├── juliacon.bst    # JuliaCon bibliography style
-│   ├── jlcode.sty      # Julia code highlighting
-│   ├── logojuliacon.pdf # Conference logo
-│   └── juliagraphs.png  # Julia graphics
-├── src/                 # Package source code
-├── test/                # Package tests
-├── Project.toml         # Project dependencies
-├── LICENSE              # MIT License
-└── README.md           # This file
-```
-
 ## Building the Paper
 
 Requirements:
