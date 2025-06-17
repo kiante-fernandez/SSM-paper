@@ -2,8 +2,8 @@
 % JuliaCon proceedings template
 \documentclass{juliacon}
 \usepackage{caption}
-\usepackage[round]{natbib}  % Add citation management
-\bibliographystyle{authordate1} % Format as Last name, First name
+\usepackage[numbers]{natbib}  % Add citation management
+\bibliographystyle{juliacon}
 
 \setcounter{page}{1}
 
@@ -26,7 +26,7 @@ The widespread interest and continuous use of SSMs across cognitive science have
 
 \begin{figure}
     \centering
-    \includegraphics[width=1\linewidth]{paper/figures/SSM_example_fig1.png}
+    \includegraphics[width=1\linewidth]{figures/SSM_example_fig1.png}
     \caption{An example of applying the sequential sampling modeling framework to a choice between two pizzas. The decision-maker samples evidence in favor of both options until reaching a decision boundary.}
     \label{fig:exampleSSM}
 \end{figure}
@@ -60,7 +60,7 @@ logpdf(dist, sim_data)
 
 % figure %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{figure}[!htp]
-\includegraphics[height=200px,width=200px]{paper/figures/rdm_choice_rt_dists.png}
+\includegraphics[height=200px,width=200px]{figures/rdm_choice_rt_dists.png}
  \caption{RT distributions of the racing diffusion model based on Code Block~\ref{lst:example2}} 
  \label{fig:rdm_choice_rt_plot}
 \end{figure}
@@ -98,7 +98,7 @@ t_range=range(.20, 1.5, length=100), xlims=(0, 1.5))
 
 % figure %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{figure}[!htp]
-\includegraphics[height=200px,width=200px]{paper/figures/rdm_trace_plot.png}
+\includegraphics[height=200px,width=200px]{figures/rdm_trace_plot.png}
  \caption{Five traces of the racing diffusion model based on Code Block~\ref{lst:example2}. On each simulations, the accumulators race independently until the evidence of the fastest accumulator reaches its threshold (horizontal, dashed line)} 
  \label{fig:rdm_trace_plot}
 \end{figure}
@@ -147,7 +147,7 @@ In addition, SSM.jl integrates with Pigeons.jl (\citep{surjanovic2023pigeons}) a
 
 % figure %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{figure}[!htp]
-\includegraphics[height=300px,width=220px]{paper/figures/posterior_distributions.png}
+\includegraphics[height=300px,width=220px]{figures/posterior_distributions.png}
  \caption{Posterior distributions for the parameters of the Linear Ballistic Accumulator model based on  Block~\ref{lst:example3}. MCMC trace plots were removed due to space limitations.} 
  \label{fig:lba_posterior}
 \end{figure}

@@ -1,0 +1,158 @@
+\begin{thebibliography}{10}
+
+\bibitem{hBayesDM}
+Woo-Young Ahn, Nathaniel Haines, and Lei Zhang.
+Revealing neurocomputational mechanisms of reinforcement learning and
+  decision-making with the {hBayesDM} package.
+{\em Computational Psychiatry}, 1:24--57, 2017.
+
+\bibitem{brown2008simplest}
+Scott~D Brown and Andrew Heathcote.
+The simplest complete model of choice response time: Linear ballistic
+  accumulation.
+{\em Cognitive psychology}, 57(3):153--178, 2008.
+
+\bibitem{ParetoSmooth.jl}
+Carlos~Parada <cdp49@cam.ac.uk>.
+Paretosmooth.jl, 6 2021.
+
+\bibitem{PlotsJL}
+Simon Christ, Daniel Schwabeneder, Christopher Rackauckas, Michael~Krabbe
+  Borregaard, and Thomas Breloff.
+Plots.jl -- a user extendable plotting api for the julia programming language.
+2023.
+\href{http://dx.doi.org/https://doi.org/10.5334/jors.431}{doi:https://doi.org/10.5334/jors.431}.
+
+\bibitem{Fengler2022BeyondDD}
+Alexander Fengler, Krishn Bera, Mads~L. Pedersen, and Michael~Joshua Frank.
+Beyond drift diffusion models: Fitting a broad class of decision and rl models
+  with hddm.
+{\em bioRxiv}, 2022.
+
+\bibitem{Fengler2020LikelihoodAN}
+Alexander Fengler, Lakshmi~Narasimhan Govindarajan, Tony Chen, and
+  Michael~Joshua Frank.
+Likelihood approximation networks (lans) for fast inference of simulation
+  models in cognitive neuroscience.
+{\em eLife}, 10, 2020.
+
+\bibitem{forstmann2016sequential}
+Birte~U Forstmann, Roger Ratcliff, and E-J Wagenmakers.
+Sequential sampling models in cognitive neuroscience: Advantages, applications,
+  and extensions.
+{\em Annual review of psychology}, 67(1):641--666, 2016.
+
+\bibitem{ge2018t}
+Hong Ge, Kai Xu, and Zoubin Ghahramani.
+Turing: a language for flexible probabilistic inference.
+In {\em International Conference on Artificial Intelligence and Statistics,
+  {AISTATS} 2018, 9-11 April 2018, Playa Blanca, Lanzarote, Canary Islands,
+  Spain}, pages 1682--1690, 2018.
+
+\bibitem{hartmann2021partial}
+Raphael Hartmann and Karl~Christoph Klauer.
+Partial derivatives for the first-passage time distribution in wiener diffusion
+  models.
+{\em Journal of Mathematical Psychology}, 103:102550, 2021.
+
+\bibitem{innesFlux}
+Mike Innes.
+Flux: Elegant machine learning with julia.
+{\em Journal of Open Source Software}, 2018.
+\href{http://dx.doi.org/10.21105/joss.00602}{doi:10.21105/joss.00602}.
+
+\bibitem{dahua_lin_2024_13838344}
+Dahua Lin, David Widmann, Simon Byrne, John~Myles White, Andreas Noack, Mathieu
+  Besançon, Douglas Bates, John Pearson, John Zito, Alex Arslan, Moritz
+  Schauer, Kevin Squire, David Anthoff, Theodore Papamarkou, Jan Drugowitsch,
+  Benjamin Deonovic, Avik Sengupta, Seth Axen, Viral~B. Shah, Brian~J Smith,
+  Glenn Moynihan, Giuseppe Ragusa, Christoph Dann, Mike~J Innes, Mohamed Tarek,
+  Michael, Martin O'Leary, and Gustavo Lacerda.
+Juliastats/distributions.jl: v0.25.112, September 2024.
+\href{http://dx.doi.org/10.5281/zenodo.13838344}{doi:10.5281/zenodo.13838344}.
+
+\bibitem{murrow2024pybeam}
+Matthew Murrow and William~R Holmes.
+Pybeam: A bayesian approach to parameter inference for a wide class of binary
+  evidence accumulation models.
+{\em Behavior Research Methods}, 56(3):2636--2656, 2024.
+
+\bibitem{palestro2018likelihood}
+James~J Palestro, Per~B Sederberg, Adam~F Osth, Trisha Van~Zandt, and Brandon~M
+  Turner.
+{\em Likelihood-free methods for cognitive science}.
+Springer, 2018.
+
+\bibitem{Ratcliff1978ATO}
+Roger Ratcliff.
+A theory of memory retrieval.
+{\em Psychological Review}, 85:59--108, 1978.
+
+\bibitem{Ratcliff2008TheDD}
+Roger Ratcliff and Gail McKoon.
+The diffusion decision model: Theory and data for two-choice decision tasks.
+{\em Neural Computation}, 20:873--922, 2008.
+
+\bibitem{ratcliff2016diffusion}
+Roger Ratcliff, Philip~L Smith, Scott~D Brown, and Gail McKoon.
+Diffusion decision model: Current issues and history.
+{\em Trends in cognitive sciences}, 20(4):260--281, 2016.
+
+\bibitem{Shinn2020AFF}
+Maxwell Shinn, Norman~H Lam, and John~D. Murray.
+A flexible framework for simulating and fitting generalized drift-diffusion
+  models.
+{\em eLife}, 9, 2020.
+
+\bibitem{singmann2018package}
+Henrik Singmann, Scott Brown, Matthew Gretton, Andrew Heathcote, Andreas Voss,
+  Jochen Voss, and Andrew Terry.
+Package ‘rtdists’, 2018.
+
+\bibitem{smith2000stochastic}
+Philip~L Smith.
+Stochastic dynamic models of response time and accuracy: A foundational primer.
+{\em Journal of mathematical psychology}, 44(3):408--463, 2000.
+
+\bibitem{stevenson2024emc2}
+Niek Stevenson, Michelle~C Donzallaz, RJ~Innes, Birte Forstmann, Dora Matzke,
+  and Andrew Heathcote.
+Emc2: An r package for cognitive models of choice.
+2024.
+
+\bibitem{surjanovic2023pigeons}
+Nikola Surjanovic, Miguel Biron-Lattes, Paul Tiede, Saifuddin Syed, Trevor
+  Campbell, and Alexandre Bouchard-C{\^o}t{\'e}.
+Pigeons.jl: {D}istributed sampling from intractable distributions.
+{\em arXiv:2308.09769}, 2023.
+
+\bibitem{tillman2020sequential}
+Gabriel Tillman, Trish Van~Zandt, and Gordon~D Logan.
+Sequential sampling models without random between-trial variability: The racing
+  diffusion model of speeded decision making.
+{\em Psychonomic Bulletin \& Review}, 27(5):911--936, 2020.
+
+\bibitem{vandekerckhove2008diffusion}
+Joachim Vandekerckhove and Francis Tuerlinckx.
+Diffusion model analysis with matlab: A dmat primer.
+{\em Behavior research methods}, 40(1):61--72, 2008.
+
+\bibitem{Vehtari2017}
+Aki Vehtari, Andrew Gelman, and Jonah Gabry.
+Practical bayesian model evaluation using leave-one-out cross-validation and
+  waic.
+{\em Statistics and Computing}, 27(5):1413--1432, Sep 2017.
+\href{http://dx.doi.org/10.1007/s11222-016-9696-4}{doi:10.1007/s11222-016-9696-4}.
+
+\bibitem{wabersich2014rwiener}
+Dominik Wabersich and Joachim Vandekerckhove.
+The rwiener package: an r package providing distribution functions for the
+  wiener diffusion model.
+{\em R Journal}, 6(1), 2014.
+
+\bibitem{wiecki2013hddm}
+Thomas~V Wiecki, Imri Sofer, and Michael~J Frank.
+Hddm: Hierarchical bayesian estimation of the drift-diffusion model in python.
+{\em Frontiers in neuroinformatics}, 7:55610, 2013.
+
+\end{thebibliography}
